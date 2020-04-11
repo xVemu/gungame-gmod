@@ -1,0 +1,10 @@
+{
+	"title"		:	"Gun Game",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "comic" ],
+	"ignore"	:
+	[
+		".git",
+		"README.md"
+	]
+}
